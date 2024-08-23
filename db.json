@@ -31,7 +31,7 @@
   {
     "id": 2,
     "searchInfo": {
-      "textSnippet": "A story about a totalitarian regime that uses surveillance and control to maintain power, warning against the dangers of authoritarianism."
+      "textSnippet": "Winston Smith is an employee at the Ministry of Truth. He is responsible for rewriting past records to align with the Party's current opinions. He greatly opposes the Party and wants to overthrow them. He meets a woman named Julia and starts an illegal affair with her, hiding in a secret apartment and discussing their feelings about the government. They soon find out that they were being watched the whole time, and they are tortured into saying that they no longer oppose the Party and Big Brother anymore."
     },
     "volumeInfo": {
       "title": "1984",
@@ -59,7 +59,7 @@
   {
     "id": 3,
     "searchInfo": {
-      "textSnippet": "A classic tale of love and misunderstanding in early 19th-century England, centered around Elizabeth Bennet and Mr. Darcy."
+      "textSnippet": "Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry."
     },
     "volumeInfo": {
       "title": "Pride and Prejudice",
@@ -87,7 +87,7 @@
   {
     "id": 4,
     "searchInfo": {
-      "textSnippet": "A novel that explores themes of decadence, idealism, and social upheaval in 1920s America through the life of Jay Gatsby."
+      "textSnippet": "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan."
     },
     "volumeInfo": {
       "title": "The Great Gatsby",
@@ -115,7 +115,7 @@
   {
     "id": 5,
     "searchInfo": {
-      "textSnippet": "The epic tale of Captain Ahab's obsessive quest to kill the white whale, Moby Dick."
+      "textSnippet": "Herman Melville's Moby Dick is the story of Captain Ahab's self-destructive obsession with the white whale called Moby Dick. It is told through the narration of Ishmael, a sailor new to Ahab's ship, the Pequod. The plot of the novel follows Ahab's manic drive to kill the whale, even as it endangers his crew."
     },
     "volumeInfo": {
       "title": "Moby-Dick",
@@ -143,7 +143,7 @@
   {
     "id": 6,
     "searchInfo": {
-      "textSnippet": "A novel that delves into the thoughts and feelings of a troubled teenager, Holden Caulfield, as he navigates life in New York City."
+      "textSnippet": "The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school. Confused and disillusioned, Holden searches for truth and rails against the “phoniness” of the adult world."
     },
     "volumeInfo": {
       "title": "The Catcher in the Rye",
@@ -171,7 +171,7 @@
   {
     "id": 7,
     "searchInfo": {
-      "textSnippet": "A futuristic novel that explores the dangers of a society driven by technology, control, and artificial happiness."
+      "textSnippet": "The novel examines a futuristic society, called the World State, that revolves around science and efficiency. In this society, emotions and individuality are conditioned out of children at a young age, and there are no lasting relationships because every one belongs to every one else (a common World State dictum)."
     },
     "volumeInfo": {
       "title": "Brave New World",
@@ -199,7 +199,7 @@
   {
     "id": 8,
     "searchInfo": {
-      "textSnippet": "The story of an orphaned girl, Jane Eyre, who overcomes hardships and finds love while staying true to her principles."
+      "textSnippet": "The novel follows the story of Jane, a seemingly plain and simple girl as she battles through life's struggles. Jane has many obstacles in her life - her cruel and abusive Aunt Reed, the grim conditions at Lowood school, her love for Rochester and Rochester's marriage to Bertha."
     },
     "volumeInfo": {
       "title": "Jane Eyre",
@@ -227,7 +227,7 @@
   {
     "id": 9,
     "searchInfo": {
-      "textSnippet": "A prelude to 'The Lord of the Rings', this book follows the adventures of Bilbo Baggins as he embarks on a quest to reclaim a lost kingdom."
+      "textSnippet": "Bilbo Baggins, a hobbit, is persuaded into accompanying the wizard Gandalf and a group of dwarves on a journey to reclaim the dwarfish city of Erebor and all its riches from the dragon Smaug."
     },
     "volumeInfo": {
       "title": "The Hobbit",
@@ -255,7 +255,7 @@
   {
     "id": 10,
     "searchInfo": {
-      "textSnippet": "A novel that explores the consequences of ambition and the pursuit of knowledge through the tragic tale of Dr. Frankenstein and his creation."
+      "textSnippet": "Frankenstein tells the story of gifted scientist Victor Frankenstein who succeeds in giving life to a being of his own creation. However, this is not the perfect specimen he imagines that it will be, but rather a hideous creature who is rejected by Victor and mankind in general."
     },
     "volumeInfo": {
       "title": "Frankenstein",
@@ -283,7 +283,7 @@
   {
     "id": 11,
     "searchInfo": {
-      "textSnippet": "A complex exploration of morality and guilt, following the life of Raskolnikov after he commits a murder."
+      "textSnippet": "Raskolnikov, an alienated former student living in abject poverty, plans to murder a greedy, old pawnbroker and use her money to help others. Although he gets away with the crime, he still experiences punishment: feelings of guilt, paranoia, isolation, horror and self-doubt."
     },
     "volumeInfo": {
       "title": "Crime and Punishment",
@@ -311,7 +311,7 @@
   {
     "id": 12,
     "searchInfo": {
-      "textSnippet": "A sweeping narrative that chronicles the lives of Russian aristocrats during the Napoleonic wars."
+      "textSnippet": "What is War and Peace about? War and Peace (1869) is a novel that follows the lives of several aristocratic families during the French invasion of Russia and the Napoleonic Wars. It explores themes of love, war, politics, and the human condition, and is considered one of the great works of literature."
     },
     "volumeInfo": {
       "title": "War and Peace",
@@ -339,7 +339,7 @@
   {
     "id": 13,
     "searchInfo": {
-      "textSnippet": "A tale of passion, vengeance, and the supernatural, set on the Yorkshire moors."
+      "textSnippet": "a gothic novel that follows the antihero, Heathcliff, as he gets revenge the people who kept him away from his love, Cathy Earnshaw. After over a decade, he finally succeeds in his revenge and gains: Thrushcross Grange, the family home of Cathy's husband."
     },
     "volumeInfo": {
       "title": "Wuthering Heights",
@@ -367,7 +367,7 @@
   {
     "id": 14,
     "searchInfo": {
-      "textSnippet": "A tragic love story set in the high society of Russia, exploring themes of love, betrayal, and social change."
+      "textSnippet": "The narrative centres on the adulterous affair between Anna, wife of Aleksey Karenin, and Count Vronsky, a young bachelor. Karenin's discovery of the liaison arouses only his concern for his own public image. Anna promises discretion for the sake of her husband and young son but eventually becomes pregnant by Vronsky."
     },
     "volumeInfo": {
       "title": "Anna Karenina",
@@ -395,7 +395,7 @@
   {
     "id": 15,
     "searchInfo": {
-      "textSnippet": "A novel that delves into the nature of beauty, morality, and the consequences of living a life of hedonism."
+      "textSnippet": "Dorian has his portrait painted as a young man. The portrait takes on Dorian's sins and his signs of aging. Dorian spends 18 years living a hedonistic lifestyle. Ultimately, Dorian dies trying to break the curse that the painting has cast over his life."
     },
     "volumeInfo": {
       "title": "The Picture of Dorian Gray",
